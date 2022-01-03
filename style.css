@@ -1,5 +1,5 @@
 body {
-  color: white; /*This indicates the font color. Change this, and it will change initially*/
+  color: rgb(12, 9, 9); /*This indicates the font color. Change this, and it will change initially*/
 
   background: linear-gradient(-45deg, #ee5252, #3cd3e7, #d59d23, #c023d5);
   background-size: 400% 400%;
